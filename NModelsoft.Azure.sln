@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NModelsoft.Azure", "NModelsoft.Azure\NModelsoft.Azure.csproj", "{5CBA193D-7007-4D1E-9D39-74EA3B9AE6F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NModelsoft.Azure.Mock", "NModelsoft.Azure.Mock\NModelsoft.Azure.Mock.csproj", "{A2ADECD4-B97C-4630-9F8D-AC07A453CD95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NModelsoft.Azure.Test", "NModelsoft.Azure.Test\NModelsoft.Azure.Test.csproj", "{99F65392-19A3-4556-883B-35CE6EFF5878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NModelsoft.Azure.Adapters", "NModelsoft.Azure.Adapters\NModelsoft.Azure.Adapters.csproj", "{54B6E17C-A63E-4B9E-AACF-F9F7A969DD4A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs24
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = NModelsoft.Azure.Adapters\\NModelsoft.Azure.Adapters.csproj
+		SccProjectName1 = NModelsoft.Azure.Adapters
+		SccLocalPath1 = NModelsoft.Azure.Adapters
+		SccProjectUniqueName2 = NModelsoft.Azure.Mock\\NModelsoft.Azure.Mock.csproj
+		SccProjectName2 = NModelsoft.Azure.Mock
+		SccLocalPath2 = NModelsoft.Azure.Mock
+		SccProjectUniqueName3 = NModelsoft.Azure.Test\\NModelsoft.Azure.Test.csproj
+		SccProjectName3 = NModelsoft.Azure.Test
+		SccLocalPath3 = NModelsoft.Azure.Test
+		SccProjectUniqueName4 = NModelsoft.Azure\\NModelsoft.Azure.csproj
+		SccProjectName4 = NModelsoft.Azure
+		SccLocalPath4 = NModelsoft.Azure
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBA193D-7007-4D1E-9D39-74EA3B9AE6F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBA193D-7007-4D1E-9D39-74EA3B9AE6F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBA193D-7007-4D1E-9D39-74EA3B9AE6F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBA193D-7007-4D1E-9D39-74EA3B9AE6F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2ADECD4-B97C-4630-9F8D-AC07A453CD95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2ADECD4-B97C-4630-9F8D-AC07A453CD95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2ADECD4-B97C-4630-9F8D-AC07A453CD95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2ADECD4-B97C-4630-9F8D-AC07A453CD95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F65392-19A3-4556-883B-35CE6EFF5878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F65392-19A3-4556-883B-35CE6EFF5878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F65392-19A3-4556-883B-35CE6EFF5878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F65392-19A3-4556-883B-35CE6EFF5878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54B6E17C-A63E-4B9E-AACF-F9F7A969DD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B6E17C-A63E-4B9E-AACF-F9F7A969DD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B6E17C-A63E-4B9E-AACF-F9F7A969DD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B6E17C-A63E-4B9E-AACF-F9F7A969DD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
